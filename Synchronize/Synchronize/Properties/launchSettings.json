@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Synchronize": {
+      "commandName": "Project",
+      "commandLineArgs": "E:\\Test\\QAtest\\source E:\\Test\\QAtest\\replica E:\\Test\\QAtest\\log 2000"
+    }
+  }
+}

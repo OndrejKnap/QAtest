@@ -1,0 +1,15 @@
+E:\Test\QAtest\Synchronize\Synchronize\bin\Debug\net6.0\Synchronize.exe
+E:\Test\QAtest\Synchronize\Synchronize\bin\Debug\net6.0\Synchronize.deps.json
+E:\Test\QAtest\Synchronize\Synchronize\bin\Debug\net6.0\Synchronize.runtimeconfig.json
+E:\Test\QAtest\Synchronize\Synchronize\bin\Debug\net6.0\Synchronize.dll
+E:\Test\QAtest\Synchronize\Synchronize\bin\Debug\net6.0\Synchronize.pdb
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.csproj.AssemblyReference.cache
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.GeneratedMSBuildEditorConfig.editorconfig
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.AssemblyInfoInputs.cache
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.AssemblyInfo.cs
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.csproj.CoreCompileInputs.cache
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.dll
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\refint\Synchronize.dll
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.pdb
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\Synchronize.genruntimeconfig.cache
+E:\Test\QAtest\Synchronize\Synchronize\obj\Debug\net6.0\ref\Synchronize.dll

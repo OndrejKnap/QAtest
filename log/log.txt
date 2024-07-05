@@ -1,0 +1,2 @@
+[10:18:47 AM]: COPY testDoc.docx.
+[10:18:47 AM]: COPY testText.txt.
